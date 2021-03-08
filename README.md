@@ -3,14 +3,23 @@
 <!--
 **cristovazz172/cristovazz172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 💻 Soy Cristo Josue, Administrador de BD y Analista de datos.
-- 🏡 Vivo en Mexico Tijuana BC.
-- 👣 Tengo un camino largo por recorrer en este sector. 
-- 🕵️‍ Estoy buscando una oportunidad laboral.
-- 🌱 Para crecer en esta profesión, me preparo en el analisis y manipulacion de datos en los sotfwares. 
-- 🚀 
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; Python | Dart | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! 😄 
 
