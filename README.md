@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 
 Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! 😄 
 
-
-
 <h2> Hi, I'm Thai Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -31,13 +29,11 @@ Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! �
 ```javascript
 const thai = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
+  code: [Javascript,SqlServer, HTML, CSS, C#,Java, Python,Mysql],
+  tools: [Node, Storybook],
+  architecture: ["microservices"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+                        University: "Tecnoligico de Tijuana"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
@@ -47,4 +43,4 @@ const thai = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@CristoJosue](https://github.com/cristovazz172)
