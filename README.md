@@ -19,10 +19,10 @@ Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! �
 <p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:cristo.vasquez@tectijuana.edu.mx)
+[![](https://img.shields.io/badge/Gmail-cristo.vasquez@tectijuana.edu.mx-red)](mailto:cristo.vasquez@tectijuana.edu.mx)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+ A little more about me...  
 
 ```javascript
 const thai = {
