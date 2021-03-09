@@ -15,10 +15,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 💻 &nbsp; Python | Dart | Java | C++  | Python | C#
+- 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | SqlServer | Xampp | MongoDB
+- 🔧 &nbsp;  Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
 
 Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! 😄 
@@ -38,7 +38,7 @@ const thai = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>The vitude to keep learning is to practice!</b> :)</em>
 
 ---
 <h3> 🤝🏻 Connect with Me </h3>
