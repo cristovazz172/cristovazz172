@@ -19,9 +19,7 @@
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | SqlServer | Xampp | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
-
-Aquí iré subiendo mis repositorios y proyectos con distintas tecnologías! 😄 
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot 
 
  A little more about me...  
 
