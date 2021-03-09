@@ -5,6 +5,8 @@
 -->
 <h3> 👨🏻‍💻 About Me </h3>
 
+ A little more about me...  
+ 
 - 🔭 &nbsp; I am currently learning Database programming
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
@@ -21,8 +23,6 @@
 - 🔧 &nbsp;  Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot 
 
- A little more about me...  
-
 ```javascript
 const thai = {
   pronouns: "she" | "her",
@@ -30,7 +30,7 @@ const thai = {
   tools: [Node, Storybook],
   architecture: ["microservices"],
   techCommunities: {
-                        University: "Tecnoligico de Tijuana"
+                        University: "Tecnologico de Tijuana"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
