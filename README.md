@@ -4,14 +4,12 @@
 **cristovazz172/cristovazz172** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h3> 👨🏻‍💻 About Me </h3>
-
  A little more about me...  
  
 - 🔭 &nbsp; I am currently learning Database programming
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 - 💼 &nbsp; Front-end web developer.
-- 🌱 &nbsp; 
 - ✍️ &nbsp; Watching Series and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
@@ -35,7 +33,6 @@ const thai = {
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
-
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>The vitude to keep learning is to practice!</b> :)</em>
 
 ---
