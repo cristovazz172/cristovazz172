@@ -15,7 +15,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  | Python | C#
+- 💻 &nbsp; Python | Java | C++  | Python | C#
 - 🌐 &nbsp;  HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | SqlServer | Xampp | MongoDB
 - 🔧 &nbsp;  Visual Studio code | Eclipse | Git
